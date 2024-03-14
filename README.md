@@ -1,2 +1,2 @@
-# percent_discount-
+# percent_discount
 %引きの計算
